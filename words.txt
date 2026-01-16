@@ -58272,7 +58272,6 @@ tuval
 tuvalet
 tuvaletçi
 tuvaletçilik
-tuvalu
 tuyuğ
 tuz
 tuzak
@@ -63927,7 +63926,6 @@ zeker
 zeki
 zekice
 zekilik
-zelanda
 zelber
 zelil
 zelve
