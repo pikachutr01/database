@@ -1974,7 +1974,6 @@ alınganlaşma
 alınganlaşmak
 alınganlık
 alınış
-alınlanış
 alınlı
 alınlık
 alınma
@@ -8862,7 +8861,6 @@ boruk
 borulu
 borumsu
 borusuz
-bosnahersek
 bostan
 bostana
 bostancı
@@ -14156,7 +14154,6 @@ dalya
 dalyan
 dalyancı
 dalyancılık
-dalyarak
 dalyaraklık
 dalyasan
 dam
@@ -20265,7 +20262,6 @@ eytam
 eytişim
 eytişimsel
 eyüp
-eyüpsultan
 eyvah
 eyvallah
 eyvan
@@ -21765,7 +21761,6 @@ gabilik
 gabin
 gabon
 gabonlu
-gaboron
 gabro
 gabya
 gabyacı
@@ -23872,7 +23867,6 @@ gusülhane
 guşa
 gut
 guvernör
-guyana
 gübre
 gübreleme
 gübrelemek
@@ -26731,7 +26725,6 @@ hücum
 hücumbot
 hücumcu
 hüda
-hüdayinabit
 hükmedebilme
 hükmedebilmek
 hükmediş
@@ -36731,7 +36724,6 @@ kükreyiş
 kükürdümsü
 kükürt
 kükürtatar
-kükürtçiçeği
 kükürtdioksit
 kükürtleme
 kükürtlemek
@@ -38742,7 +38734,6 @@ matrut
 matuf
 matuh
 maun
-mauritius
 maval
 mavera
 maverai
@@ -45175,7 +45166,6 @@ papikçilik
 papirüs
 papirüsgiller
 paprika
-papua
 papura
 papyekuşe
 papyon
@@ -48804,7 +48794,6 @@ saltçılık
 saltık
 salto
 salur
-salvador
 salvo
 salya
 salyamsı
@@ -49211,7 +49200,6 @@ sarışınlık
 sarıveliler
 sarıverme
 sarıvermek
-sarıyağız
 sarıyahşi
 sarıyer
 sarıyonca
@@ -57965,7 +57953,6 @@ troyka
 tröst
 truakar
 trup
-truvakar
 trük
 tsunami
 tu
@@ -59700,9 +59687,6 @@ uzzal
 ünsüzlü
 ünsüzlük
 ünvan
-ünvanlı
-ünvansız
-ünvansızlık
 ünye
 ürat
 ürdün
