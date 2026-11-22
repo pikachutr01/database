@@ -13,5 +13,6 @@ başka bir cihazda buradan indirip uygulamada **Dosyadan içe aktar** ile kurabi
 | English (US-NWL) | Scrabble | en-US | 1 | [dictionary_en_naspa-v1.solverpaket](dictionary_en_naspa-v1.solverpaket) | 502 KB |
 | Français (Larousse) | Scrabble | fr-FR | 1 | [dictionary_fr_fr-v1.solverpaket](dictionary_fr_fr-v1.solverpaket) | 944 KB |
 | Italiano | Scrabble | it-IT | 1 | [dictionary_it_it-v1.solverpaket](dictionary_it_it-v1.solverpaket) | 1.5 MB |
+| Deutsch | Scrabble | de-DE | 1 | [dictionary_de_de-v1.solverpaket](dictionary_de_de-v1.solverpaket) | 1.5 MB |
 
 Son güncelleme: 2026-11-22. Bu klasörü Solver'ın sunucusu yazar; elle değiştirmeyin.
