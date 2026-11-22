@@ -1,0 +1,2 @@
+# database
+Sözlükler
