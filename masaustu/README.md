@@ -9,5 +9,6 @@ başka bir cihazda buradan indirip uygulamada **Dosyadan içe aktar** ile kurabi
 | :-- | :-- | :-- | --: | :-- | --: |
 | Scrabble Sözlüğü | Scrabble | tr-TR | 2 | [oyun1_sozluk-v2.solverpaket](oyun1_sozluk-v2.solverpaket) | 188 KB |
 | Scrabble Türkçe Sözlük 2 | Scrabble | tr-TR | 1 | [dictionary_tr_tr-v1.solverpaket](dictionary_tr_tr-v1.solverpaket) | 79 KB |
+| English (UK) | Scrabble | en-GB | 1 | [dictionary_en_gb-v1.solverpaket](dictionary_en_gb-v1.solverpaket) | 713 KB |
 
 Son güncelleme: 2026-11-22. Bu klasörü Solver'ın sunucusu yazar; elle değiştirmeyin.
