@@ -1,0 +1,11 @@
+{
+  "version": "0.5.0",
+  "notes": "Uygulama içi güncelleme: yeni sürümler açılışta denetlenir, Hakkında penceresinden \"Güncelle ve yeniden başlat\" ile kurulur. Yeni Hakkında penceresi (menü → Hakkında): sürüm, güncellemeler, hata günlüğü ve açık kaynak lisansları. Pencerenin boyutu ve konumu hatırlanır. Uygulamanın adı \"Solver Masaüstü\" oldu: eski \"Solver Masaustu\"yu Windows'un Uygulamalar listesinden bir kez kaldırın; tahtalarınız, lisansınız ve ayarlarınız yerinde kalır.",
+  "pub_date": "2026-11-23T17:05:05Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS1R1REduQmRKSmN1c1JBbVZzTDZBb3JaR2xxVndIOWh6UEwwZUFvUHlhY0ZGT1huWFhhRnluRnQ4NGw5NVRSMmxBVXRDWU5lQVQ2NXdheXhJTDNDbHB1SGtkdVFlV3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDUzNDkwCWZpbGU6U29sdmVyIE1hc2HDvHN0w7xfMC41LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4wCjlzdWgzZzMwazNxVE40cTdjNHhYZlhITkowYUo0Y1J6U09OQ0RmZ3poaTZML1VBSUtOK1N1dk5oRlAxQkVReEYyckx3SFVuYjBjdEJ2Mko1OTNpU0NnPT0K",
+      "url": "https://github.com/pikachutr01/database/releases/download/masaustu-v0.5.0/Solver-0.5.0-kurulum.exe"
+    }
+  }
+}
