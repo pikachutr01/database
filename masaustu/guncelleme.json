@@ -1,11 +1,11 @@
 {
-  "version": "0.5.1",
-  "notes": "Hata günlüğüne artık yalnız hatalar ve uyarılar yazılıyor; açılış gibi olağan olaylar yazılmıyor. Hakkında'dan günlük kopyalanırken sürüm bilgisi başa ekleniyor. Güncellemelerde ek güvenlik denetimi.",
-  "pub_date": "2026-11-23T18:27:08Z",
+  "version": "1.0.0",
+  "notes": "Solver Masaüstü 1.0: herkese açık ilk sürüm. İnternetsiz çözücü, Değer sütunu, simülasyonlu En İyi Hamle ve kesin oyun sonu araması, risk analizi, görselden tahta okuma, oyun ve sözlük paketleri, kendi desenleriniz, tahta renkleri ve 3B tahta, gömülü kullanım kılavuzu, uygulama içi güncelleme.",
+  "pub_date": "2026-11-24T11:02:31Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS1R1REduQmRKSlVaYnBVVkxadkRxV2F2cFVNTE1FVkZwT0hueldEbm1jUy84SFJoRG1RWlFCZG85RkZOLzVvZENudGF4aVNhZFpZMHlNbjVrcXVTTGUzSkxyUTd3QXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDU4NDE0CWZpbGU6U29sdmVyIE1hc2HDvHN0w7xfMC41LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4xCk1nNEZzaTdBWVlOV2FqM21ueDRDZVRvbEJxVGcyMkE1K054NHVOOGRKTzJEWlB3RCtQV3djellqU2pBRkJ6MWRtSElRQVBIYlpOZm9nek9oT2h5SUJnPT0K",
-      "url": "https://github.com/pikachutr01/database/releases/download/masaustu-v0.5.1/Solver-0.5.1-kurulum.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS1R1REduQmRKSmEzcCtEc0Q5OStBRXlQVDdsdWZ3Y0RWdnhxRHo2MlkyT3pYaGtGSTN6R3ZRTG9iM2ZMSjlxT1pmRm9jQmZGVUFmUHFVQnM5bEZWaXdSa3VNQlZsNXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE4MTM2CWZpbGU6U29sdmVyIE1hc2HDvHN0w7xfMS4wLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wCkNLK3VlVEQ4U0g2QS84Yi9xRWV3RkRUS0FkUTZvT3NSczJPbmlQZ3hKS3FIcGhKOHV1V0lFdTV2NDJHOHRwT056V3lYK2ZmaWxlajI1SHFoUFFRQkNBPT0K",
+      "url": "https://github.com/pikachutr01/database/releases/download/masaustu-v1.0.0/Solver-1.0.0-kurulum.exe"
     }
   }
 }
