@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "Solver Masaüstü 1.0: herkese açık ilk sürüm. İnternetsiz çözücü, Değer sütunu, simülasyonlu En İyi Hamle ve kesin oyun sonu araması, risk analizi, görselden tahta okuma, oyun ve sözlük paketleri, kendi desenleriniz, tahta renkleri ve 3B tahta, gömülü kullanım kılavuzu, uygulama içi güncelleme.",
-  "pub_date": "2026-11-24T11:02:31Z",
+  "version": "1.0.1",
+  "notes": "Solver Masaüstü 1.0.1: Değer sütunu artık bütün Türkçe sözlüklerde, her 15×15 desende ve 7 harflik elde görünür (önceden yalnız Türkçe Scrabble Klasik desende). En İyi Hamle simülasyonu da aynı oyunlarda bırakım tablosunu kullanır.",
+  "pub_date": "2026-11-24T20:07:31Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS1R1REduQmRKSmEzcCtEc0Q5OStBRXlQVDdsdWZ3Y0RWdnhxRHo2MlkyT3pYaGtGSTN6R3ZRTG9iM2ZMSjlxT1pmRm9jQmZGVUFmUHFVQnM5bEZWaXdSa3VNQlZsNXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE4MTM2CWZpbGU6U29sdmVyIE1hc2HDvHN0w7xfMS4wLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wCkNLK3VlVEQ4U0g2QS84Yi9xRWV3RkRUS0FkUTZvT3NSczJPbmlQZ3hKS3FIcGhKOHV1V0lFdTV2NDJHOHRwT056V3lYK2ZmaWxlajI1SHFoUFFRQkNBPT0K",
-      "url": "https://github.com/pikachutr01/database/releases/download/masaustu-v1.0.0/Solver-1.0.0-kurulum.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS1R1REduQmRKSlhlQ2JnVVBid2RSeitqV3NrbnJTSFhEcmZMdXdCUjNEOS9pNitMak5BdktTWk1GUGdKQjhjdlFNSkh6U0x2NDlKZVozOGdZUE9DdTJIbjcwM1Q4MkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTUwODM2CWZpbGU6U29sdmVyIE1hc2HDvHN0w7xfMS4wLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4xCjN2cTh1MkdseERjeGlSd1ZVQU0yL2g2d0JocWduNDhhcjVYY0JMdnZCb3U0UXpVRjZqbU93ODNqZ3VtQW9EQW1ReHRoQUVFaXVQTDl5UUt4Y3NXMkF3PT0K",
+      "url": "https://github.com/pikachutr01/database/releases/download/masaustu-v1.0.1/Solver-1.0.1-kurulum.exe"
     }
   }
 }
