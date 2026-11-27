@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "Solver Masaüstü 1.0.1: Değer sütunu artık bütün Türkçe sözlüklerde, her 15×15 desende ve 7 harflik elde görünür (önceden yalnız Türkçe Scrabble Klasik desende). En İyi Hamle simülasyonu da aynı oyunlarda bırakım tablosunu kullanır.",
-  "pub_date": "2026-11-24T20:07:31Z",
+  "version": "1.1.0",
+  "notes": "Solver Masaüstü 1.1.0: Ekran düzeni ayarlanabilir: bölümlerin arası sürüklenerek genişletilir, isteğe bağlı iki sütunlu düzende kalan harfler sonuçların altında kutu olur (Uygulama Ayarları → Ekran Düzeni). En İyi Hamle'ye skor girilirse hamleler kazanma olasılığına göre sıralanır (1 milyon oyunluk tablo); torba boşken oyunun sonucu yazılır. Sonuç tablosunda Değer, Harf, Sayı, Yön ve Bonus sütunları gizlenebilir. Taş harfleri daha büyük ve kalın. Değişiklikler: masaustu/YOL_HARITASI.md, Durum.",
+  "pub_date": "2026-11-27T10:10:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS1R1REduQmRKSlhlQ2JnVVBid2RSeitqV3NrbnJTSFhEcmZMdXdCUjNEOS9pNitMak5BdktTWk1GUGdKQjhjdlFNSkh6U0x2NDlKZVozOGdZUE9DdTJIbjcwM1Q4MkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTUwODM2CWZpbGU6U29sdmVyIE1hc2HDvHN0w7xfMS4wLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4xCjN2cTh1MkdseERjeGlSd1ZVQU0yL2g2d0JocWduNDhhcjVYY0JMdnZCb3U0UXpVRjZqbU93ODNqZ3VtQW9EQW1ReHRoQUVFaXVQTDl5UUt4Y3NXMkF3PT0K",
-      "url": "https://github.com/pikachutr01/database/releases/download/masaustu-v1.0.1/Solver-1.0.1-kurulum.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS1R1REduQmRKSlJVOUQ5dndBRENYd0NNZFcySTg5eVJvbkY4ZEdXMFVQNTJYN1hHRkwrYkFOYVh5NFVocjluUnU2RVJsWittU1dYYldjWUY3NC82N2JlQnJaODdYV0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzc0MjM3CWZpbGU6U29sdmVyIE1hc2HDvHN0w7xfMS4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4wCmZUSEtLREFlY09oUlBFazdXZDNiMTJCRU5yTGlhRysvVDQwQWh5NVlFMG4vSlltUHc2VzBLeE9xK3pSUWdiM213VWdVTFB3R0x1bGNDT20yZzlVU0RnPT0K",
+      "url": "https://github.com/pikachutr01/database/releases/download/masaustu-v1.1.0/Solver-1.1.0-kurulum.exe"
     }
   }
 }
